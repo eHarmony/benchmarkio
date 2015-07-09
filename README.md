@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/eHarmony/benchmarkio.svg?branch=master)](https://travis-ci.org/eHarmony/benchmarkio)
+
 benchmarkio
 ===========
 
